@@ -121,7 +121,7 @@
 I Kyle Telfer, a self-taught individual exploring physics through a structured, iterative process I call the 5-step interaction: perception > interpretation > communication > interpretation > perception. With the help of AI platforms, I’m documenting and organizing known physics principles to better understand my own gaps in knowledge. My goal is to build a framework that helps me—and potentially others—navigate complex ideas by respecting observed data points and existing knowledge, without overextending their implications. This is an ongoing, evolving process, and I hope that by collaborating with others, this framework can grow into something that benefits not just me, but anyone who finds themselves grappling with similar questions.
 
 ####Core Priciples####
-*container Interactions: Forces and interactions are reinterpreted as interactions between containers.
+*Container Interactions: Forces and interactions are reinterpreted as interactions between containers.
 *Observer-Dependence: Measurements depend on the observer’s perspective. 
 *Closed vs. Open containers:
 *Closed container: A container where energy is conserved (no external energy transfer).
@@ -139,6 +139,7 @@ I am teaching myself as much as I can about so many things but run into many iss
 Container is defined as a region within 3D space that can be either an open system or a closed system.  The use of an open Container would indicate theoretical concepts that would always be inside the 3d space container unless otherwise stated.  The use of multiple independent closed containers to make comparisons is allowed but consider each value compared has to respect the defined properties of each container. This allows for comparison but the need to denote unequal conditions. Things to consider are a container open or closed does not have to be physical, it could be an energy source propigating 3d space.  This would also include containers that would not be whole within our current observation but also that concept would automatically include 3d Space theoretical open container and therfore be within a purely thought space concept to which can not be experimented with.
 
 ** Property Variables **
+
 *1. Point of Origin - one common point within container
 *2. Scale of measurement - Scale or units would all be bound to the point of origin upon need to calculate values. -Note this would indicate a relativity difference when a container is within another  container
 *3. Boundries - The limit or skin of the container itself. - Note containers can have physical shapes like containers that do not influence what is within but can be evaluated as two containers interacting with much math
