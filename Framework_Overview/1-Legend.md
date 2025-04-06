@@ -13,23 +13,23 @@
 ## 1c Framework Application List
 *Status: Always in flux*  
 *File: 1c-Person_Notation.md*  
-*Description: A brief description on what I percieve as person notation within volume to volume interactions.*
+*Description: A brief description on what I percieve as person notation within container to container interactions.*
 
 ## 2. Degradation Factor
 *Status: Completed*  
 *File: 2-Degradation_Factor.md*  
-*Description: A must-step in all calculations under this framework.  Meant to be an acknowlogment of change within reality that all volume definitions suffer with any attempt to define a volume itself.*
+*Description: A must-step in all calculations under this framework.  Meant to be an acknowlogment of change within reality that all container definitions suffer with any attempt to define a container itself.*
 *2.1. Degradation as a Computational Threshold*
-*2.2. Closing a Volume for Calculation*
+*2.2. Closing a container for Calculation*
 *2.3. Durational Resolution and Degradation*
-*2.4. Volume Growth and Change in Reality*
+*2.4. container Growth and Change in Reality*
 *2.5. Reframing Degradation in the Framework*
 
 
 ## 3. Newtonian Mechanics
 *Status: Completed*  
 *File: 3-Mechanics.md*  
-*Description: Looks at mechanical interactions while reinterpreting Newton’s Laws of Motion using volume interactions and observer-dependent measurements.*
+*Description: Looks at mechanical interactions while reinterpreting Newton’s Laws of Motion using container interactions and observer-dependent measurements.*
 *3.1. Newton’s First Law (Law of Inertia)*
 *3.2. Newton’s Second Law*
 *3.3. Newton’s Third Law*
@@ -47,9 +47,9 @@
 *Status: Completed*  
 *File: 4-Waves_and_Optics.md*  
 *Description: Looking at waveform interactions while respecting already in place energy transfer mechanisms*
-*5.1. Energy Waveforms*
-*5.2. Sound Waves and Doppler Effect*
-*5.3. Snell’s Law and Optical Phenomena*
+*4.1. Energy Waveforms*
+*4.2. Sound Waves and Doppler Effect*
+*4.3. Snell’s Law and Optical Phenomena*
 
 ## 5. Electromagnetism
 *Status: Completed*  
@@ -116,56 +116,50 @@
 *Description: Considering the translations of perspectives regarding translation of what is traditional to this framework.*
 *11.1. Cosmology (Big Bang, Dark Matter, Dark Energy)*
 
-
-## 13. Legend for Process Notation and Framework Explanation
-*Status: Completed*  
-*File: 1-Legend.md*  
-*Description: Text-based notation for math formulas, observer-dependent measurements, and mapping of mathematical branches to the three-person notation system.*
-
 ### Framework Overview ###
 
 I Kyle Telfer, a self-taught individual exploring physics through a structured, iterative process I call the 5-step interaction: perception > interpretation > communication > interpretation > perception. With the help of AI platforms, I’m documenting and organizing known physics principles to better understand my own gaps in knowledge. My goal is to build a framework that helps me—and potentially others—navigate complex ideas by respecting observed data points and existing knowledge, without overextending their implications. This is an ongoing, evolving process, and I hope that by collaborating with others, this framework can grow into something that benefits not just me, but anyone who finds themselves grappling with similar questions.
 
 ####Core Priciples####
-*Volume Interactions: Forces and interactions are reinterpreted as interactions between volumes.
+*container Interactions: Forces and interactions are reinterpreted as interactions between containers.
 *Observer-Dependence: Measurements depend on the observer’s perspective. 
-*Closed vs. Open Volumes:
-*Closed Volume: A volume where energy is conserved (no external energy transfer).
-*Open Volume: A volume where energy is not conserved or no energy can enter or exit a closed volume unless expressed as an interaction of two closed volumes within the theoretically fundamental 3d Space volume(external energy transfer occurs).   
+*Closed vs. Open containers:
+*Closed container: A container where energy is conserved (no external energy transfer).
+*Open container: A container where energy is not conserved or no energy can enter or exit a closed container unless expressed as an interaction of two closed containers within the theoretically fundamental 3d Space container(external energy transfer occurs).   
 *Person Notation:* 
-*First-Person POV: Describes the volume from the perspective of being the volume itself.*
-*Second-Person POV: Describes another volume from an external perspective.*
-*Third-Person POV**: Describes both volumes from an objective, external perspective.*
+*First-Person POV: Describes the container from the perspective of being the container itself.*
+*Second-Person POV: Describes another container from an external perspective.*
+*Third-Person POV**: Describes both containers from an objective, external perspective.*
 
 # 3D Space #
-This is meant to try and understand my personal understanding of how I organize 3d space itself within my perception.  I am teaching myself as much as I can about so many things but run into many issues with the order of which things are traditionally tought as well as moving past data points being referenced in places my personal organization equates to unlike conditions.  This head section is a beginning but seems I need to start with volume and work with that and sub sections within that.  I may not need this header section when done but leaving a space for unknown.  The section organization is much influx due to this being a best effort to organize thoughts and document data point problems so I can look to understand what I do not.  I may reorder or move information to a better representation but I am doing my personal best to not include incorrect thoughts or thoughts that have undocumented thresholds without explaination.  This 3d Space section is what I am treating as a open volume to which volume interactions happen but with no limits mass or energy can not be calculated.
+I am teaching myself as much as I can about so many things but run into many issues with the order of which things are traditionally tought as well as moving past data points being referenced in places my personal organization equates to unlike conditions.  This section is meant to hold all things with the understanding and respect that many things not understood or observed would also be within.  This section lets me learn and grow.  The section organization is much influx due to this being a best effort to organize thoughts and document data point problems so I can look to understand what I do not.  I may reorder or move information to a better representation but I am doing my personal best to not include incorrect thoughts or thoughts that have undocumented thresholds without explaination.  This 3d Space section is what I am treating as a open container to which container interactions happen but with no limits mass or energy can not be calculated.
 
-# Volume #
+# Container #
 
-Volume is defined as a region within 3D space that can be either an open system or a closed system.  The use of an open volume would indicate theoretical concepts that would always be inside the 3d space volume unless otherwise stated.  The use of multiple independent closed volumes to make comparisons is allowed but consider each value compared has to respect the defined properties of each volume.  This allows for comparison but the need to denote unequal conditions. Things to consider are a volume open or closed does not have to be physical, it could be an energy source propigating 3d space.  This would also include volumes that would not be whole within our current observation but also that concept would automatically include 3d Space theoretical open volume and therfore be within a purely thought space concept to which can not be experimented with.
+Container is defined as a region within 3D space that can be either an open system or a closed system.  The use of an open Container would indicate theoretical concepts that would always be inside the 3d space container unless otherwise stated.  The use of multiple independent closed containers to make comparisons is allowed but consider each value compared has to respect the defined properties of each container. This allows for comparison but the need to denote unequal conditions. Things to consider are a container open or closed does not have to be physical, it could be an energy source propigating 3d space.  This would also include containers that would not be whole within our current observation but also that concept would automatically include 3d Space theoretical open container and therfore be within a purely thought space concept to which can not be experimented with.
 
 ** Property Variables **
-*1. Point of Origin - one common point within volume
-*2. Scale of measurement - Scale or units would all be bound to the point of origin upon need to calculate values. -Note this would indicate a relativity difference when a volume is within another volume 
-*3. Boundries - The limit or skin of the volume itself. - Note volumes can have physical shapes like containers that do not influence what is within but can be evaluated as two volumes interacting with much math
-*4. Duration resolution - this is a common interval that all duration calculations would respect tied to the volume. 
-*5. Mass - can only be calculated with a closed volume with required definitions of 1,2,3,4
-*6. Energy - can be quantified only with a closed volume tied to mass of the same closed volume
-*7. Density - can be quantified only with a closed volume tied to the mass of the same closed volume
-*8. Gravity: This is an attraction to the net center of mass of a volume, whose strength (amplitude) decreases with the square of the distance from that center in a spherically symmetric manner. When evaluating open volumes, interactions with unknown or external masses may influence the gravitational field, and each mass concentration contributes its own spherically symmetric field.
-*9. Entropic Variables - In the framework, **closed volumes** are systems where energy is conserved, and no external energy transfer occurs. However, any reference to an **open volume**, **theoretical volume**, or **measuring volume** within a calculation introduces potential degradation of the closed volume's integrity. This degradation is further influenced by **entropic variables** (\( V_{\text{entropic}} \)), which represent the unobserved or undefined interactions within the closed volume itself.
+*1. Point of Origin - one common point within container
+*2. Scale of measurement - Scale or units would all be bound to the point of origin upon need to calculate values. -Note this would indicate a relativity difference when a container is within another  container
+*3. Boundries - The limit or skin of the container itself. - Note containers can have physical shapes like containers that do not influence what is within but can be evaluated as two containers interacting with much math
+*4. Duration resolution - this is a common interval that all duration calculations would respect tied to the container. 
+*5. Mass - can only be calculated with a closed container with required definitions of 1,2,3,4
+*6. Energy - can be quantified only with a closed container tied to mass of the same closed container
+*7. Density - can be quantified only with a closed container tied to the mass of the same closed container
+*8. Gravity: This is an attraction to the net center of mass of a container, whose strength (amplitude) decreases with the square of the distance from that center in a spherically symmetric manner. When evaluating open containers, interactions with unknown or external masses may influence the gravitational field, and each mass concentration contributes its own spherically symmetric field.
+*9. Entropic Variables - In the framework, **closed containers** are systems where energy is conserved, and no external energy transfer occurs. However, any reference to an **open container**, **theoretical container**, or **measuring container** within a calculation introduces potential degradation of the closed container's integrity. This degradation is further influenced by **entropic variables** (\( V_{\text{entropic}} \)), which represent the unobserved or undefined interactions within the closed container itself.
 
-1. Absolute Volume (Third-Person):
+1. Absolute container (Third-Person):
    - Formula: V = x * y * z
 
-2. First-Person Volume (V_me):
+2. First-Person container (V_me):
    - Formula: V_me = (x_me * y_me) * z_inferred
 
-3. Second-Person Volume (V_you):
+3. Second-Person container (V_you):
    - Formula: V_you = (x_you * y_you) * z_measured 
    
 ==== Notes ====
-- An observers perception and an observers observance are not equal so all measurements taken to define a volume would be limitted to the context of an open volume viewing an other open volume that is in process of being closed or defined for calculation.  This is the at the heart of battle between experimental and theoretical.
+- An observers perception and an observers observance are not equal so all measurements taken to define a container would be limitted to the context of an open container viewing an other open container that is in process of being closed or defined for calculation.  This is the at the heart of battle between experimental and theoretical.
 
 ***Noted Issue - Mass and Density have a dependancy to each other to be defined so one is needed to define the other.  This indicates they are relative to each other with pure definition on yet another unknown.
 ** Mass Variables **
@@ -176,37 +170,37 @@ Volume is defined as a region within 3D space that can be either an open system 
 ** Modifiers **
 * To be expanded upon 
 
-#Volumes within perception#
-Volume interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a volume is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the volume they are computed within.
+#Containers within perception#
+Container interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a container is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the container they are computed within.
 
-#Scope of a Closed Volume #
-Once a closed volume is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed volume as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
+#Scope of a Closed Container #
+Once a closed container is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed container as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
 
-# Open Volume or Partial Volume definitions such as a measuring volume #
-As all closed volume energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a volume to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring volume to enclose the closed volume you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring volume and closed volume. 
+# Open Container or Partial Container definitions such as a measuring Container #
+As all closed container energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a container to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring container to enclose the closed container you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring container and closed container. 
 
 # Choas theory and randomness #
-This is an important distinction within volume interactions as being reductive or isolating in nature.  Within this framework the ability to close or define two volumes to do static calculations to understand interactions violates variables within the definitions of the volumes themselves.  Durational resolution deltas or time is the most prominant.  The computation duration needed to predict one square meter of interactions of atomic resolution would violate the durational resolution of each atmoic closed volume itself.  So the use of partially open volumes or measuring volumes to do bigger thinking with less computational burden is needed.   So chaos and randomness is needed to do bigger things even though the randomness might not be random on a micro scale the macro respresentation is random.  This equates to how the micro-particle volume for flow mechanics was needed but the application of chaos or randomness would be the mathmatical representation of the micro-particle solution being used within the flow mechanic system.
+This is an important distinction within container interactions as being reductive or isolating in nature.  Within this framework the ability to close or define two containers to do static calculations to understand interactions violates variables within the definitions of the containers themselves.  Durational resolution deltas or time is the most prominant.  The computation duration needed to predict one square meter of interactions of atomic resolution would violate the durational resolution of each atmoic closed container itself.  So the use of partially open containers or measuring containers to do bigger thinking with less computational burden is needed.   So chaos and randomness is needed to do bigger things even though the randomness might not be random on a micro scale the macro respresentation is random.  This equates to how the micro-particle container for flow mechanics was needed but the application of chaos or randomness would be the mathmatical representation of the micro-particle solution being used within the flow mechanic system.
 
 # Elements #
-The foundation for all physical things.  In the most broad terms to me each element is possibly a stable mass energy threshold to which all foundations of physical material within a volume is wholely notable.
+The foundation for all physical things.  In the most broad terms to me each element is possibly a stable mass energy threshold to which all foundations of physical material within a container is wholely notable.
 
-# Micro-particle volumes to evaluate flow dynamics #
-Once a system is closed and defined that is intended for flow evaluation and that defined state includes a fully saturated volume you can add a pair of theoretical micro-particle volumes.  These volumes have to have the opposite energy potential from the closed volume not each other.  This way you can evaluate saturated flow within the closed volume without an energy conservation issue.  Note - the micro-particle input and outputs would not be limited to attachment of the closed volume.
+# Micro-particle Containers to evaluate flow dynamics #
+Once a system is closed and defined that is intended for flow evaluation and that defined state includes a fully saturated container you can add a pair of theoretical micro-particle containers.  These containers have to have the opposite energy potential from the closed container not each other.  This way you can evaluate saturated flow within the closed container without an energy conservation issue.  Note - the micro-particle input and outputs would not be limited to attachment of the closed container.
 
-With the creation of micro-particle volumes the flow evaluation of the closed volume would not be limited to saturated systems.  The theoretical volume has energy input and output.  This input and output has needed defined properties to evaluate the closed volume.  The reason for energy input to be opposite the output relative to the closed volume is the closed volume would seek equilibrium once saturated.  If your evaluating a flow that is meant to redistribute energy the theoretical energy in and out do not supply the energy to run the evaluation.
+With the creation of micro-particle containers the flow evaluation of the closed container would not be limited to saturated systems.  The theoretical container has energy input and output.  This input and output has needed defined properties to evaluate the closed container.  The reason for energy input to be opposite the output relative to the closed container is the closed container would seek equilibrium once saturated.  If your evaluating a flow that is meant to redistribute energy the theoretical energy in and out do not supply the energy to run the evaluation.
 
 # Entropy #
-I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a volume. To me Entropy is used due to comparing volumes with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
+I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a container. To me Entropy is used due to comparing containers with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
 
-# Duration Resolution between unlike volumes #
-To work on durational resolution issues between unlike volumes you would need a perceived stable common point.  Any values would be only theoretical.  For this I might suggest the cosmic microwave background values.  That would be a backdrop large enough for what we see.  The CMB coupled to the Kelvin scale would allow for a theoretical base conversion to durational resolution in regards to energies within differential volumes.
+# Duration Resolution between unlike Containers #
+To work on durational resolution issues between unlike containers you would need a perceived stable common point.  Any values would be only theoretical.  For this I might suggest the cosmic microwave background values.  That would be a backdrop large enough for what we see.  The CMB coupled to the Kelvin scale would allow for a theoretical base conversion to durational resolution in regards to energies within differential containers.
 
 #Formal Definition of Weight#
-As an example of open and closed volume interactions. Weight is the **differential force** experienced due to the interaction between two volumes with mass properties, mediated by a net gravitational field. The gravitational field influences the interaction between the volumes to provide a measurement of weight, but the **volume properties** of each gravitational field interacting are irrelevant to the field on the two masses being measured as the measurement is merely a differential between two closed volumes within the measuring volume.
+As an example of open and closed container interactions. Weight is the **differential force** experienced due to the interaction between two containers with mass properties, mediated by a net gravitational field. The gravitational field influences the interaction between the containers to provide a measurement of weight, but the **container properties** of each gravitational field interacting are irrelevant to the field on the two masses being measured as the measurement is merely a differential between two closed containers within the measuring container.
 
 #Mathematical Representation#
-The weight (W) of an object can be expressed as: \(W = (m_volumebeingweighed * g_measuringvolume) - (m_volumebeingweighedagainst * g_measuringvolume))
+The weight (W) of an object can be expressed as: \(W = (m_containerbeingweighed * g_measuringcontainer) - (m_containerbeingweighedagainst * g_measuringcontainer))
 
 - W is the weight
 - m_ is the mass specified.
@@ -214,40 +208,40 @@ The weight (W) of an object can be expressed as: \(W = (m_volumebeingweighed * g
  
 # Energy Transfer #
 1. Kinetic Energy Transfer
-Definition: Kinetic energy transfer occurs through interactions between two closed volumes.  This is either within a third volume or within the theoretical 3d space open volume.
+Definition: Kinetic energy transfer occurs through interactions between two closed containers.  This is either within a third container or within the theoretical 3d space open container.
 
-Mechanism: The interaction (e.g., force, collision) between the two closed volumes results in the transfer of kinetic energy.
+Mechanism: The interaction (e.g., force, collision) between the two closed containers results in the transfer of kinetic energy.
 
-Key Idea: The energy transfer is mediated by the measuring volume, which provides the context for observing the interaction.
+Key Idea: The energy transfer is mediated by the measuring container, which provides the context for observing the interaction.
 
 2. Potential Energy Transfer
-Definition: Potential energy transfer occurs when a closed system is redefined, which can include the separation of the volume into multiple volumes.
+Definition: Potential energy transfer occurs when a closed system is redefined, which can include the separation of the container into multiple containers.
 
-Mechanism: The redefinition of the system (e.g., splitting a volume, changing its configuration) results in the transfer or transformation of potential energy.
+Mechanism: The redefinition of the system (e.g., splitting a container, changing its configuration) results in the transfer or transformation of potential energy.
 
-Key Idea: Potential energy is tied to the configuration or position of volumes within a system, and changes in this configuration lead to energy transfer.
+Key Idea: Potential energy is tied to the configuration or position of containers within a system, and changes in this configuration lead to energy transfer.
 
 # Charge or Energy #
-This to me is a volume effect that is the same mathmatically as gravity in description but raw source may be very different.  The volume charge would be a net total from all calculated volumes within.  Which is to say volumes within need definition to be considered within energy density propigation.
+This to me is a container effect that is the same mathmatically as gravity in description but raw source may be very different.  The container charge would be a net total from all calculated containers within.  Which is to say containers within need definition to be considered within energy density propigation.
 
 # Magnetic Force #
-For me in words a magnetic field is merely an extension of a closed volume past a physical boundary due to the net charge of composition within demonstrating a attraction or repulsion force depending on the net charge state of the volume as a whole.
+For me in words a magnetic field is merely an extension of a closed container past a physical boundary due to the net charge of composition within demonstrating a attraction or repulsion force depending on the net charge state of the container as a whole.
 
 # Induction # 
-So all this is interesting but perceptually in words it is much simpler.  To me induction is only the kinetic energy transferred by one volumes magnetic field entering a second volume.  -- This would include two volumes that exhibit magnetic fields beyond physical boundary and one magnetic field entering physical volumes who have conducting materials.
+So all this is interesting but perceptually in words it is much simpler.  To me induction is only the kinetic energy transferred by one containers magnetic field entering a second container.  -- This would include two containers that exhibit magnetic fields beyond physical boundary and one magnetic field entering physical containers who have conducting materials.
 
 # Thermodynamics # 
-So issue with Zeroth law.  So to me Zeroth law would be like two seperate closed volumes in equilibrium with a third closed volume would remain in equilibrium if the two seperate closed volumes do not interact.
+So issue with Zeroth law.  So to me Zeroth law would be like two seperate closed containers in equilibrium with a third closed container would remain in equilibrium if the two seperate closed containers do not interact.
 
 # Heat transfer terms #
-So in my perception I would have Conduction as a thermal value for elastic energy transfer within a closed volume.  Convection would be the elastic delta between two volumes in contact.  Radiation would be elastic calculations between two volumes mediated by a third volume.
+So in my perception I would have Conduction as a thermal value for elastic energy transfer within a closed container.  Convection would be the elastic delta between two containers in contact.  Radiation would be elastic calculations between two containers mediated by a third container.
 
-# Time between independent Closed Volumes #
+# Time between independent Closed containers #
 By using the Kelvin scale and Cosmic Microwave background Kelvin temperature you can make a common reference point for possible durational resolution issues
 
-# Energy Transfer Between Closed Volumes #
+# Energy Transfer Between Closed containers #
 a. Closed Systems and Energy Transfer
-In your framework, a closed system is a volume with well-defined boundaries and properties (e.g., energy, temperature, durational resolution).  When energy is transferred between two closed systems (V1V1 and V2V2), the properties of both systems change:
+In your framework, a closed system is a container with well-defined boundaries and properties (e.g., energy, temperature, durational resolution).  When energy is transferred between two closed systems (V1V1 and V2V2), the properties of both systems change:
 
 The energy of V1V1 decreases, while the energy of V2V2 increases.
 
@@ -268,16 +262,16 @@ A second-person observer within V2V2 might perceive the same energy transfer as 
 
 A third-person observer outside the system might perceive the energy transfer as a redistribution of energy between V1V1 and V2V2.
 
-# Closed Volume Degradation Relative to Entropic Variables
+# Closed container Degradation Relative to Entropic Variables
 
 ## Refined Concept: Degradation and Entropy
 
-In the framework, **closed volumes** are systems where energy is conserved, and no external energy transfer occurs. However, any reference to an **open volume**, **theoretical volume**, or **measuring volume** within a calculation introduces potential degradation of the closed volume's integrity. This degradation is further influenced by **entropic variables** (\( V_{\text{entropic}} \)), which represent the unobserved or undefined interactions within the closed volume itself.
+In the framework, **closed containers** are systems where energy is conserved, and no external energy transfer occurs. However, any reference to an **open container**, **theoretical container**, or **measuring container** within a calculation introduces potential degradation of the closed container's integrity. This degradation is further influenced by **entropic variables** (\( V_{\text{entropic}} \)), which represent the unobserved or undefined interactions within the closed container itself.
 
 The mathematical representation of degradation relative to entropic variables captures the essence of this concept more effectively than words alone. It quantifies the cumulative impact of external references and internal uncertainties, providing a clear and precise way to adjust calculations for real-world complexities.
 
 ### Inverse square root ###
-Note that the use of squared functions outside perceptual context may hide the need to consider the 3d perception in regards to any interaction.  The inverse square root of a sphere has value from a point of origin to which needs to be defined when considering any vector interaction of a closed volume system.
+Note that the use of squared functions outside perceptual context may hide the need to consider the 3d perception in regards to any interaction.  The inverse square root of a sphere has value from a point of origin to which needs to be defined when considering any vector interaction of a closed container system.
 
 # Legend for process notation and framework explaination #
 

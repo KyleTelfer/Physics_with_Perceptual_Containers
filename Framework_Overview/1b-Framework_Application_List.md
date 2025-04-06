@@ -5,8 +5,8 @@
 ## 1b.1 Computerized Modeling
 
 - **Framework Application**:
-  - **First-Person POV**: Used to model the internal state of the volume being simulated.
-  - **Second-Person POV**: Used to model interactions with other volumes in the system.
+  - **First-Person POV**: Used to model the internal state of the container being simulated.
+  - **Second-Person POV**: Used to model interactions with other containers in the system.
   - **Third-Person POV**: Used to describe the overall system behavior and degradation.
 
 - **Definition**: Theoretical simulations using computational tools to predict system behavior.
@@ -30,7 +30,7 @@
   - **Purpose**: To push boundaries, explore radical ideas, or identify theoretical limits.
   - **Challenges**: Scope creep (expanding beyond the original goal) and scope blowout (losing focus on the desired result).
 - **Framework Application**:
-  - **Degradation Factor**: Used to account for theoretical uncertainties (e.g., unobserved interactions, open volumes).
+  - **Degradation Factor**: Used to account for theoretical uncertainties (e.g., unobserved interactions, open containers).
   - **Disengaging Thresholds**:
     - Theoretical limits: If assumptions become too unrealistic (e.g., mass of input waste exceeds known material densities), disengage and revisit assumptions.
     - Scope control: Regularly check if the analysis aligns with the desired result to avoid scope creep.

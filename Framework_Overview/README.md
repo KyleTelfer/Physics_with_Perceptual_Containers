@@ -8,43 +8,43 @@ I, Kyle Telfer, am a self-taught individual exploring physics through a structur
 
 The framework is built on the following core principles:
 
-1. **Volume Interactions**: Forces and interactions are reinterpreted as interactions between volumes.
+1. **Container Interactions**: Forces and interactions are reinterpreted as interactions between containers.
 2. **Observer-Dependence**: Measurements depend on the observer’s perspective.
-3. **Closed vs. Open Volumes**:
-   - **Closed Volume**: A volume where energy is conserved (no external energy transfer).
-   - **Open Volume**: A volume where energy is not conserved, or energy can enter or exit only through interactions with other closed volumes within the theoretically fundamental 3D space volume (external energy transfer occurs).
+3. **Closed vs. Open Containers**:
+   - **Closed container**: A container where energy is conserved (no external energy transfer).
+   - **Open container**: A container where energy is not conserved, or energy can enter or exit only through interactions with other closed containers within the theoretically fundamental 3D space container (external energy transfer occurs).
 
 ---
 
 ## The 5-Step Interaction Process
 
-The **5-step interaction** is a cyclical process designed to address **translation errors**, **biases in notation**, and **perspective differences** between volumes. It helps me understand whether a bias or misunderstanding originates from my own perspective (my volume) or from the perspective of another (the other volume). This process is not about determining correctness but about understanding **point-of-view differences** and improving communication.
+The **5-step interaction** is a cyclical process designed to address **translation errors**, **biases in notation**, and **perspective differences** between containers. It helps me understand whether a bias or misunderstanding originates from my own perspective (my container) or from the perspective of another (the other container). This process is not about determining correctness but about understanding **point-of-view differences** and improving communication.
 
 Here’s a deeper look at each step:
 
-### 1. Perception (My Volume)
+### 1. Perception (My container)
 - **Definition**: Observing and gathering data from my perspective.
 - **Purpose**: To collect raw, unfiltered information about a phenomenon or system as I perceive it.
 - **Example**: Observing the motion of objects in a gravitational field from my frame of reference.
 
-### 2. Interpretation (My Volume)
+### 2. Interpretation (My container)
 - **Definition**: Analyzing and making sense of the observed data from my perspective.
 - **Purpose**: To derive meaning from my observations and identify patterns or principles.
 - **Example**: Interpreting the motion of objects as governed by Newton’s Laws from my point of view.
 
 ### 3. Communication (The Interaction)
-- **Definition**: Documenting and sharing my interpreted insights with others or with another volume.
+- **Definition**: Documenting and sharing my interpreted insights with others or with another container.
 - **Purpose**: To formalize and communicate my findings, creating a bridge between my perspective and another.
 - **Example**: Writing a document or creating a model that explains my observations and interpretations.
 
-### 4. Interpretation (The Other Volume)
-- **Definition**: The other volume (or perspective) analyzes and interprets the communicated insights.
-- **Purpose**: To understand how the other volume perceives and interprets the same data, identifying differences or biases.
+### 4. Interpretation (The Other container)
+- **Definition**: The other container (or perspective) analyzes and interprets the communicated insights.
+- **Purpose**: To understand how the other container perceives and interprets the same data, identifying differences or biases.
 - **Example**: Another observer or system revisits my model and provides feedback or a different interpretation.
 
-### 5. Perception (The Other Volume)
-- **Definition**: The other volume observes the phenomenon or system from its perspective, refining its understanding based on the interaction.
-- **Purpose**: To validate or refine the interpretation from the other volume’s perspective, creating a feedback loop for continuous improvement.
+### 5. Perception (The Other container)
+- **Definition**: The other container observes the phenomenon or system from its perspective, refining its understanding based on the interaction.
+- **Purpose**: To validate or refine the interpretation from the other container’s perspective, creating a feedback loop for continuous improvement.
 - **Example**: The other observer conducts new experiments or observations to test the revised model.
 
 ---
@@ -53,12 +53,12 @@ Here’s a deeper look at each step:
 
 The **5-step interaction** can even be applied to everyday situations, like an old married couple arguing over the same thing but saying it differently. Here’s how the process plays out:
 
-1. **Perception (My Volume)**:
+1. **Perception (My container)**:
    - **Observation**: I observe that the living room is messy.
    - **Interpretation**: I interpret this as my spouse not cleaning up after themselves.
    - **Communication**: I say, “You never clean up around here!”
 
-2. **Interpretation (The Other Volume)**:
+2. **Interpretation (The Other container)**:
    - **Observation**: My spouse observes that the living room is messy.
    - **Interpretation**: They interpret this as me being too busy to help with chores.
    - **Communication**: They say, “You’re always too busy to help!”
@@ -81,19 +81,19 @@ The **5-step interaction** can even be applied to everyday situations, like an o
 As I attempted to teach myself more about physics, I encountered issues with **undocumented conditions** within accepted formulas and notations. The learning materials often described concepts in words, but the mathematical notation left out critical conditions or assumptions. This disconnect led to misunderstandings and biases in my learning process.
 
 The **5-step interaction** helps me break down these barriers by:
-1. **Identifying Biases**: Understanding whether a bias or misunderstanding originates from my volume or the other volume.
-2. **Improving Communication**: Addressing translation errors and improving the clarity of communication between volumes.
-3. **Respecting Perspectives**: Acknowledging that neither volume is inherently incorrect but that differences arise from unique points of view.
+1. **Identifying Biases**: Understanding whether a bias or misunderstanding originates from my container or the other container.
+2. **Improving Communication**: Addressing translation errors and improving the clarity of communication between containers.
+3. **Respecting Perspectives**: Acknowledging that neither container is inherently incorrect but that differences arise from unique points of view.
 
 ---
 
 ## How to Use This Framework
 
-1. **Start with Perception (Your Volume)**: Observe a phenomenon or system from your perspective.
-2. **Interpret the Data (Your Volume)**: Analyze the observations and derive meaning from your point of view.
-3. **Communicate Your Insights**: Share your findings with others or with another volume.
-4. **Interpretation (The Other Volume)**: Allow the other volume to analyze and interpret your insights.
-5. **Perception (The Other Volume)**: Observe again from the other volume’s perspective, refining the understanding and creating a feedback loop.
+1. **Start with Perception (Your container)**: Observe a phenomenon or system from your perspective.
+2. **Interpret the Data (Your container)**: Analyze the observations and derive meaning from your point of view.
+3. **Communicate Your Insights**: Share your findings with others or with another container.
+4. **Interpretation (The Other container)**: Allow the other container to analyze and interpret your insights.
+5. **Perception (The Other container)**: Observe again from the other container’s perspective, refining the understanding and creating a feedback loop.
 
 ---
 
