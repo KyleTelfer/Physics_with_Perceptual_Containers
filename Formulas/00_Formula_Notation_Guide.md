@@ -1,15 +1,15 @@
 # Formula Notation Guide #
 
-V               - General container notation
-V_{measuring}      - measuring container (multiple containers combined)
-V_{closed}      - Closed container, needed inputs for calculation defined
-V_{open}        - Open container (energy not conserved)
-V_{partial}		- Container in process of definition for calculation
-V_{delta}       - Container interaction (replaces force concept)
-V_{entropic}    - Entropic variable (unobserved interactions)
-V_{variables} 	- Given inputs needed for calculation
-V_{formulas} 	- Needed formulas for calculation
-V_{thresholds} 	- Needed breakpoints
+*V               - General container notation*
+*V_{measuring}      - measuring container (multiple containers combined)*
+*V_{closed}      - Closed container, needed inputs for calculation defined*
+*V_{open}        - Open container (energy not conserved)*
+*V_{partial}		- Container in process of definition for calculation*
+*V_{delta}       - Container interaction (replaces force concept)*
+*V_{entropic}    - Entropic variable (unobserved interactions)*
+*V_{variables} 	- Given inputs needed for calculation*
+*V_{formulas} 	- Needed formulas for calculation*
+*V_{thresholds} 	- Needed breakpoints*
 
 
 *   - Multiplication
