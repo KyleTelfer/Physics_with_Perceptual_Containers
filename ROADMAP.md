@@ -6,7 +6,7 @@ This document outlines the current state of the repository, identifies known gap
 
 ## Current State
 
-The repository is organized into several key directories, each focusing on a specific aspect of the **Volume Interaction Framework**. Below is a summary of the current state of each directory:
+The repository is organized into several key directories, each focusing on a specific aspect of the **Container Interaction Framework**. Below is a summary of the current state of each directory:
 
 ### Framework Overview
 - **Status**: The core principles and 5-step interaction process are well-defined. A comedic example (old married couple) has been added to illustrate the concept.
@@ -15,10 +15,10 @@ The repository is organized into several key directories, each focusing on a spe
   - Expand on how observer-dependence applies to specific physics concepts.
 
 ### Physics Concepts
-- **Status**: Worded translations of known physics concepts (e.g., mechanics, electromagnetism, quantum mechanics) have been reinterpreted through the Volume Interaction Framework.
+- **Status**: Worded translations of known physics concepts (e.g., mechanics, electromagnetism, quantum mechanics) have been reinterpreted through the container Interaction Framework.
 - **Known Gaps**:
   - Add mathematical resolutions for each concept in the `src` directory.
-  - Include more examples of volume interactions in specific physics problems.
+  - Include more examples of container interactions in specific physics problems.
 
 ### Facility and Machine Concepts
 - **Status**: Workflow notation for facilities and machines has been established, with an example waste facility provided.
@@ -30,7 +30,7 @@ The repository is organized into several key directories, each focusing on a spe
 - **Status**: A speed of light experiment has been proposed but not fully developed.
 - **Known Gaps**:
   - Fully develop the speed of light experiment, including theoretical and practical considerations.
-  - Add more experimental designs to test the Volume Interaction Framework.
+  - Add more experimental designs to test the container Interaction Framework.
 
 ---
 
@@ -63,7 +63,7 @@ Below is the current structure of the repository. This tree will be updated as t
 | |____2nd_Person
 | |____3rd_Person
 | | |____Planetary_Data_Calculation.py
-| |____Volume_interaction_workflows
+| |____Container_interaction_workflows
 |____Define_the_Problem_Question_Bucket
 | |____Cosmology
 | |____Electromagnetism

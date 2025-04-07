@@ -174,6 +174,9 @@ Container is defined as a region within 3D space that can be either an open syst
 #Containers within perception#
 Container interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a container is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the container they are computed within.
 
+#Containers and the gradient between open and closed #
+Containers are my way to notate known physics while showing respect for the conditions of which the formulas and proofs are solved within.  My hopes is to be able to notate the rules in a manner that keeps track of conditions of the containers to which formula inputs are proven so I can see if those formulas meet the like conditions of the container I am looking to solve within thus solving what I need while respecting the formulas creational effort and limitations.
+
 #Scope of a Closed Container #
 Once a closed container is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed container as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
 
@@ -192,7 +195,7 @@ Once a system is closed and defined that is intended for flow evaluation and tha
 With the creation of micro-particle containers the flow evaluation of the closed container would not be limited to saturated systems.  The theoretical container has energy input and output.  This input and output has needed defined properties to evaluate the closed container.  The reason for energy input to be opposite the output relative to the closed container is the closed container would seek equilibrium once saturated.  If your evaluating a flow that is meant to redistribute energy the theoretical energy in and out do not supply the energy to run the evaluation.
 
 # Entropy #
-I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a container. To me Entropy is used due to comparing containers with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
+I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a container. To me Entropy is used due to comparing containers with unlike undocumented conditions.  So within a sturdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
 
 # Duration Resolution between unlike Containers #
 To work on durational resolution issues between unlike containers you would need a perceived stable common point.  Any values would be only theoretical.  For this I might suggest the cosmic microwave background values.  That would be a backdrop large enough for what we see.  The CMB coupled to the Kelvin scale would allow for a theoretical base conversion to durational resolution in regards to energies within differential containers.

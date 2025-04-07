@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Key Concepts](#key-concepts)
-   - [Volume Interactions](#1-volume-interactions)
+   - [Container Interactions](#1-container-interactions)
    - [Observer-Dependence](#2-observer-dependence)
    - [Degradation Factor](#3-degradation-factor)
 3. [Framework Applications](#framework-applications)
@@ -18,12 +18,12 @@
 6. [License](#license)
 
 ## Description
-This repository is a collection of physics ideas and a framework for simulating and analyzing physical systems. The framework reinterprets traditional physics concepts (e.g., Newtonian mechanics, thermodynamics, electromagnetism) through the lens of **volume interactions** and **observer-dependent measurements**. The goal is to provide a platform for exploring theoretical and computational physics in a structured and modular way.
+This repository is a collection of physics ideas and a framework for simulating and analyzing physical systems. The framework reinterprets traditional physics concepts (e.g., Newtonian mechanics, thermodynamics, electromagnetism) through the lens of **container interactions** and **observer-dependent measurements**. The goal is to provide a platform for exploring theoretical and computational physics in a structured and modular way.
 
 ## Key Concepts
-### 1. Volume Interactions
-- Forces and interactions are reinterpreted as interactions between volumes.
-- While respecting volume interactions limits open, closed, or even partially defined volumes exist but the interactions between volumes is better managed within scope if a volume is in theory denoted.
+### 1. Container Interactions
+- Forces and interactions are reinterpreted as interactions between containers.
+- While respecting container interactions limits open, closed, or even partially defined containers exist but the interactions between containers is better managed within scope if a container is in theory denoted.
 
 ### 2. Observer-Dependence
 - Measurements depend on the observer’s perspective.

@@ -11,8 +11,10 @@ The framework is built on the following core principles:
 1. **Container Interactions**: Forces and interactions are reinterpreted as interactions between containers.
 2. **Observer-Dependence**: Measurements depend on the observer’s perspective.
 3. **Closed vs. Open Containers**:
+   - No container exists in a closed state but the need to close the container to be able to calculate in coordination with rules and laws of physics. This takes any container and adds restrictions on them in order to evaluate your given needs but with any calculation the input variables restrict the container and all inputs needs to be documented in order to be able to apply like comparisions. 
    - **Closed container**: A container where energy is conserved (no external energy transfer).
    - **Open container**: A container where energy is not conserved, or energy can enter or exit only through interactions with other closed containers within the theoretically fundamental 3D space container (external energy transfer occurs).
+   - Each container variable would shift the container across a gradient from open towards closed.
 
 ---
 
