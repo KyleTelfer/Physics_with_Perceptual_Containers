@@ -1,26 +1,26 @@
-# Physics Concepts in the Volume Interaction Framework
+# Physics Concepts in the Container Interaction Framework
 
 ## Description
-This directory contains worded translations of known physics concepts reinterpreted through the lens of the **Volume Interaction Framework**. Each file explores a specific area of physics (e.g., mechanics, electromagnetism, quantum mechanics) and describes how traditional concepts are reimagined using **volume interactions**, **degradation factors**, and **observer-dependent measurements**.
+This directory contains worded translations of known physics concepts reinterpreted through the lens of the **container Interaction Framework**. Each file explores a specific area of physics (e.g., mechanics, electromagnetism, quantum mechanics) and describes how traditional concepts are reimagined using **container interactions**, **degradation factors**, and **observer-dependent measurements**.
 
 ## Key Concepts
-- **Volume Definitions**: Volumes are regions of 3D space that can be open or closed, with properties like mass, energy, and density.
-- **Degradation Factors**: A computational threshold that accounts for uncertainties and unobserved interactions within closed volumes.
+- **container Definitions**: containers are regions of 3D space that can be open or closed, with properties like mass, energy, and density.
+- **Degradation Factors**: A computational threshold that accounts for uncertainties and unobserved interactions within closed containers.
 - **Observer-Dependent Measurements**: Measurements depend on the observer's perspective (first-person, second-person, third-person).
 
 ## Directory Structure
-- **3-Mechanics.md**: Reinterprets Newton's Laws of Motion using volume interactions.
-- **4-Waves_and_Optics.md**: Describes waveforms as energy transfers between volumes.
-- **5-Electromagnetism.md**: Reimagines electric and magnetic fields as extensions of closed volumes.
-- **6-Thermodynamics.md**: Reinterprets heat transfer and entropy as interactions between thermal volumes.
-- **7-Fluid_Mechanics.md**: Describes fluid flow as interactions between dynamic volumes.
-- **8-Relativity.md**: Reinterprets relativistic effects using volume interactions.
-- **9-Quantum_Mechanics.md**: Describes wavefunctions as closed volumes containing probabilistic states.
-- **10-Nuclear_and_Particle_Physics.md**: Reinterprets nuclear reactions and particle interactions as volume dynamics.
+- **3-Mechanics.md**: Reinterprets Newton's Laws of Motion using container interactions.
+- **4-Waves_and_Optics.md**: Describes waveforms as energy transfers between containers.
+- **5-Electromagnetism.md**: Reimagines electric and magnetic fields as extensions of closed containers.
+- **6-Thermodynamics.md**: Reinterprets heat transfer and entropy as interactions between thermal containers.
+- **7-Fluid_Mechanics.md**: Describes fluid flow as interactions between dynamic containers.
+- **8-Relativity.md**: Reinterprets relativistic effects using container interactions.
+- **9-Quantum_Mechanics.md**: Describes wavefunctions as closed containers containing probabilistic states.
+- **10-Nuclear_and_Particle_Physics.md**: Reinterprets nuclear reactions and particle interactions as container dynamics.
 - **11-Cosmology.md**: Applies the framework to cosmological phenomena like the Big Bang, dark matter, and dark energy.
 
 ## How to Use This Directory
-1. **Start with the Framework Overview**: If you're new to the Volume Interaction Framework, begin with the [Framework Overview](../Framework_Overview/1-Legend.md) to understand the core principles and notation.
+1. **Start with the Framework Overview**: If you're new to the container Interaction Framework, begin with the [Framework Overview](../Framework_Overview/1-Legend.md) to understand the core principles and notation.
 2. **Explore Specific Concepts**: Navigate to the physics concept you're interested in (e.g., mechanics, electromagnetism) to see how it's reinterpreted in the framework.
 3. **Cross-Reference with Mathematics**: The mathematical resolution of these concepts can be found in the [src](../src) directory or other parts of the repository.
 

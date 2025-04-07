@@ -1,16 +1,16 @@
 ## 8. Relativity
 
 ### 8.1. Special Relativity
-- **Framework Translation**: Special relativity describes how **kinetic energy propagation** through **low-mass open volumes** is affected by high speeds.
+- **Framework Translation**: Special relativity describes how **kinetic energy propagation** through **low-mass open containers** is affected by high speeds.
 - **Key Idea**: Highlights the **limitations of variables** (e.g., time, length) when dealing with high-speed energy propagation.
 
 ### 8.2. General Relativity
-- **Framework Translation**: General relativity describes how **mass influences energy propagation** in the **3D space open volume**, curving spacetime and affecting energy distribution.
-- **Key Idea**: Mass (a property of closed volumes) curves spacetime, influencing energy propagation and creating observable effects like gravitational lensing.
+- **Framework Translation**: General relativity describes how **mass influences energy propagation** in the **3D space open container**, curving spacetime and affecting energy distribution.
+- **Key Idea**: Mass (a property of closed containers) curves spacetime, influencing energy propagation and creating observable effects like gravitational lensing.
 
 ### 8.3. Time Dilation and Length Contraction
 - **Framework Translation**: Time dilation and length contraction are reinterpreted as **observer-dependent effects** caused by relative motion and energy distribution.
-- **Key Idea**: The perception of time and length depends on the **observer’s perspective** and the relative energy distribution between volumes.
+- **Key Idea**: The perception of time and length depends on the **observer’s perspective** and the relative energy distribution between containers.
 
 ### 8.4. Mass-Energy Equivalence (\( E = mc² \))
 - **Traditional View**: \( E = mc² \) assumes a fixed relationship between mass and energy, with \( c² \) as a constant conversion factor.

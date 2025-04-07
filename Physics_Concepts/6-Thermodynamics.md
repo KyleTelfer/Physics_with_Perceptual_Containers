@@ -1,18 +1,18 @@
 ### 6.2. Heat Transfer (Conduction, Convection, Radiation)
 
 ### Overview
-In the framework, **heat transfer** is reinterpreted as **energy redistribution** within or between **closed volumes**. The three primary modes of heat transfer—**conduction**, **convection**, and **radiation**—are analyzed in terms of **volume interactions**, **energy oscillations**, and the **degradation factor**. Each mode of heat transfer is subject to the **elasticity** of energy transfer and the **entropic variables** that influence the system.
+In the framework, **heat transfer** is reinterpreted as **energy redistribution** within or between **closed containers**. The three primary modes of heat transfer—**conduction**, **convection**, and **radiation**—are analyzed in terms of **container interactions**, **energy oscillations**, and the **degradation factor**. Each mode of heat transfer is subject to the **elasticity** of energy transfer and the **entropic variables** that influence the system.
 
 ---
 
-### Conduction: Energy Transfer Within Closed Volumes
+### Conduction: Energy Transfer Within Closed containers
 
 #### Traditional Definition
 - **Conduction**: Heat transfer through a solid material due to temperature differences.
 
 #### Framework Interpretation
-- In the framework, **conduction** is reinterpreted as **elastic energy transfer** within a **closed volume**. The energy transfer occurs due to interactions between particles within the volume, and the efficiency of conduction depends on the **elasticity** of these interactions.
-- **Key Idea**: Conduction is a function of the **internal energy distribution** within a closed volume. The energy transfer is mediated by the **volume interaction** (\( V_{\text{delta}} \)) between particles, and the process is subject to the **degradation factor** due to external references or unobserved interactions.
+- In the framework, **conduction** is reinterpreted as **elastic energy transfer** within a **closed container**. The energy transfer occurs due to interactions between particles within the container, and the efficiency of conduction depends on the **elasticity** of these interactions.
+- **Key Idea**: Conduction is a function of the **internal energy distribution** within a closed container. The energy transfer is mediated by the **container interaction** (\( V_{\text{delta}} \)) between particles, and the process is subject to the **degradation factor** due to external references or unobserved interactions.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Conduction)**:
@@ -21,7 +21,7 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
   \]
   Where:
   - \( Q \): Heat transfer rate.
-  - \( k \): Thermal conductivity (a property of the closed volume).
+  - \( k \): Thermal conductivity (a property of the closed container).
   - \( A \): Cross-sectional area.
   - \( \Delta T \): Temperature difference.
   - \( \Delta x \): Thickness of the material.
@@ -34,14 +34,14 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
 
 ---
 
-### Convection: Energy Transfer Between Closed Volumes
+### Convection: Energy Transfer Between Closed containers
 
 #### Traditional Definition
 - **Convection**: Heat transfer through fluids (liquids or gases) due to the movement of the fluid.
 
 #### Framework Interpretation
-- In the framework, **convection** is reinterpreted as **kinetic energy transfer** between **closed volumes**. The movement of fluid particles (e.g., in a liquid or gas) represents the transfer of energy from one closed volume to another.
-- **Key Idea**: Convection involves the **redistribution of energy** between closed volumes due to the motion of fluid particles. The energy transfer is mediated by the **volume interaction** (\( V_{\text{delta}} \)) and is subject to the **degradation factor** due to external influences or unobserved interactions.
+- In the framework, **convection** is reinterpreted as **kinetic energy transfer** between **closed containers**. The movement of fluid particles (e.g., in a liquid or gas) represents the transfer of energy from one closed container to another.
+- **Key Idea**: Convection involves the **redistribution of energy** between closed containers due to the motion of fluid particles. The energy transfer is mediated by the **container interaction** (\( V_{\text{delta}} \)) and is subject to the **degradation factor** due to external influences or unobserved interactions.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Convection)**:
@@ -50,9 +50,9 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
   \]
   Where:
   - \( Q \): Heat transfer rate.
-  - \( h \): Convective heat transfer coefficient (a property of the fluid and the closed volumes).
+  - \( h \): Convective heat transfer coefficient (a property of the fluid and the closed containers).
   - \( A \): Surface area.
-  - \( \Delta T \): Temperature difference between the closed volumes.
+  - \( \Delta T \): Temperature difference between the closed containers.
   
 - **Degraded Heat Transfer Rate**:
   \[
@@ -68,8 +68,8 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
 - **Radiation**: Heat transfer through electromagnetic waves, without the need for a medium.
 
 #### Framework Interpretation
-- In the framework, **radiation** is reinterpreted as **energy oscillations** between **closed volumes**. The energy transfer occurs through electromagnetic waves, which are treated as **energy redistributions** within or between closed volumes.
-- **Key Idea**: Radiation involves the transfer of energy through **energy oscillations** (electromagnetic waves) between closed volumes. The energy transfer is subject to the **elasticity** of the interaction and the **degradation factor** due to external references or unobserved interactions.
+- In the framework, **radiation** is reinterpreted as **energy oscillations** between **closed containers**. The energy transfer occurs through electromagnetic waves, which are treated as **energy redistributions** within or between closed containers.
+- **Key Idea**: Radiation involves the transfer of energy through **energy oscillations** (electromagnetic waves) between closed containers. The energy transfer is subject to the **elasticity** of the interaction and the **degradation factor** due to external references or unobserved interactions.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Radiation)**:
@@ -80,7 +80,7 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
   - \( Q \): Heat transfer rate.
   - \( \sigma \): Stefan-Boltzmann constant.
   - \( A \): Surface area.
-  - \( T \): Temperature of the closed volume.
+  - \( T \): Temperature of the closed container.
   
 - **Degraded Heat Transfer Rate**:
   \[
@@ -99,7 +99,7 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
 
 #### Degradation Factor
 - The **degradation factor** (\( D \)) accounts for energy losses due to:
-  - **External references** (e.g., measuring volumes or open volumes).
+  - **External references** (e.g., measuring containers or open containers).
   - **Entropic variables** (\( V_{\text{entropic}} \)), representing unobserved or unmeasurable interactions.
 - The degradation factor is applied to all heat transfer calculations to ensure realistic energy redistribution:
   \[
@@ -110,40 +110,40 @@ In the framework, **heat transfer** is reinterpreted as **energy redistribution*
 
 ### Unified View of Heat Transfer in the Framework
 
-- **Conduction**: Energy transfer within a closed volume, mediated by **elastic interactions** between particles and subject to the **degradation factor**.
-- **Convection**: Energy transfer between closed volumes, mediated by the **kinetic energy** of fluid particles and subject to the **degradation factor**.
-- **Radiation**: Energy transfer through **energy oscillations** (electromagnetic waves) between closed volumes, subject to the **elasticity** of the interaction and the **degradation factor**.
+- **Conduction**: Energy transfer within a closed container, mediated by **elastic interactions** between particles and subject to the **degradation factor**.
+- **Convection**: Energy transfer between closed containers, mediated by the **kinetic energy** of fluid particles and subject to the **degradation factor**.
+- **Radiation**: Energy transfer through **energy oscillations** (electromagnetic waves) between closed containers, subject to the **elasticity** of the interaction and the **degradation factor**.
 
 ---
 
 ### Reflection on Heat Transfer and Entropic Variables
 
 - **Entropic Variables** (\( V_{\text{entropic}} \)) play a crucial role in heat transfer by introducing energy fluctuations due to unobserved or unmeasurable interactions. These variables are accounted for in the **degradation factor**, ensuring that energy transfer calculations reflect real-world complexities.
-- The **degradation factor** ensures that heat transfer processes are consistent with the framework’s principles, providing a more accurate representation of energy redistribution in closed and open volumes.
+- The **degradation factor** ensures that heat transfer processes are consistent with the framework’s principles, providing a more accurate representation of energy redistribution in closed and open containers.
 
 
 
 ### 6.2. Heat Transfer (Conduction, Convection, Radiation)
 
 ### Overview
-In the framework, **heat transfer** is reinterpreted as **energy transfer between volumes**, where energy propagates through **volume interactions**. Energy is already categorized as either **potential** or **kinetic**, and heat transfer is a function of how this energy is redistributed between closed volumes. The three modes of heat transfer—**conduction**, **convection**, and **radiation**—are simply different manifestations of the same **elastic energy transfer system**, depending on the state of matter being measured.
+In the framework, **heat transfer** is reinterpreted as **energy transfer between containers**, where energy propagates through **container interactions**. Energy is already categorized as either **potential** or **kinetic**, and heat transfer is a function of how this energy is redistributed between closed containers. The three modes of heat transfer—**conduction**, **convection**, and **radiation**—are simply different manifestations of the same **elastic energy transfer system**, depending on the state of matter being measured.
 
 ---
 
 ### Heat Transfer as Elastic Energy Transfer
 
 #### Core Idea
-- **Heat transfer** is a function of **elastic energy transfer** between volumes. Every interaction is a **proportion of elasticity**, where:
-  - **Elastic interactions** represent **kinetic energy transfer**, where energy is fully redistributed between volumes without loss.
-  - **Inelastic interactions** represent **potential energy reflection**, where some energy is reflected back into the closed volume as potential energy or converted into **entropic variables**.
+- **Heat transfer** is a function of **elastic energy transfer** between containers. Every interaction is a **proportion of elasticity**, where:
+  - **Elastic interactions** represent **kinetic energy transfer**, where energy is fully redistributed between containers without loss.
+  - **Inelastic interactions** represent **potential energy reflection**, where some energy is reflected back into the closed container as potential energy or converted into **entropic variables**.
 - The **state of matter** (solid, liquid, gas, or plasma) determines how the energy transfer is observed and measured, but the fundamental process remains consistent across all states.
 
 #### Key Principles
-1. **Energy Oscillations**: Energy propagates through **volume interactions** as oscillations, whether through particle collisions (conduction), fluid motion (convection), or electromagnetic waves (radiation).
+1. **Energy Oscillations**: Energy propagates through **container interactions** as oscillations, whether through particle collisions (conduction), fluid motion (convection), or electromagnetic waves (radiation).
 2. **Proportion of Elasticity**: Every interaction is a mix of **elastic** and **inelastic** components:
-   - **Elastic Component**: Represents **kinetic energy transfer** between volumes.
-   - **Inelastic Component**: Represents **potential energy reflection** back into the closed volume or conversion into **entropic variables**.
-3. **Degradation Factor**: All energy transfers are subject to the **degradation factor** (\( D \)), which accounts for external references (e.g., measuring volumes) and **entropic variables** (\( V_{\text{entropic}} \)) representing unobserved interactions. The degradation factor ensures consistency in cascading calculations.
+   - **Elastic Component**: Represents **kinetic energy transfer** between containers.
+   - **Inelastic Component**: Represents **potential energy reflection** back into the closed container or conversion into **entropic variables**.
+3. **Degradation Factor**: All energy transfers are subject to the **degradation factor** (\( D \)), which accounts for external references (e.g., measuring containers) and **entropic variables** (\( V_{\text{entropic}} \)) representing unobserved interactions. The degradation factor ensures consistency in cascading calculations.
 
 ---
 
@@ -153,8 +153,8 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
 - **Conduction**: Heat transfer through a solid material due to temperature differences.
 
 #### Framework Interpretation
-- In the framework, **conduction** is reinterpreted as **elastic energy transfer** within a **closed volume** of solid matter. Energy propagates through **volume interactions** between particles in the solid, mediated by **elastic collisions**.
-- **Key Idea**: Conduction is a function of the **internal energy distribution** within a closed volume. The energy transfer is governed by the **proportion of elasticity** in particle interactions and is subject to the **degradation factor**.
+- In the framework, **conduction** is reinterpreted as **elastic energy transfer** within a **closed container** of solid matter. Energy propagates through **container interactions** between particles in the solid, mediated by **elastic collisions**.
+- **Key Idea**: Conduction is a function of the **internal energy distribution** within a closed container. The energy transfer is governed by the **proportion of elasticity** in particle interactions and is subject to the **degradation factor**.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Conduction)**:
@@ -163,7 +163,7 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
   \]
   Where:
   - \( Q \): Heat transfer rate.
-  - \( k \): Thermal conductivity (a property of the closed volume).
+  - \( k \): Thermal conductivity (a property of the closed container).
   - \( A \): Cross-sectional area.
   - \( \Delta T \): Temperature difference.
   - \( \Delta x \): Thickness of the material.
@@ -182,8 +182,8 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
 - **Convection**: Heat transfer through fluids (liquids or gases) due to the movement of the fluid.
 
 #### Framework Interpretation
-- In the framework, **convection** is reinterpreted as **elastic energy transfer** between **closed volumes** of fluid matter. Energy propagates through the **kinetic motion** of fluid particles, which redistribute energy between volumes.
-- **Key Idea**: Convection is a function of the **kinetic energy** of fluid particles, which mediate energy transfer between closed volumes. The process is governed by the **proportion of elasticity** in the interaction and is subject to the **degradation factor**.
+- In the framework, **convection** is reinterpreted as **elastic energy transfer** between **closed containers** of fluid matter. Energy propagates through the **kinetic motion** of fluid particles, which redistribute energy between containers.
+- **Key Idea**: Convection is a function of the **kinetic energy** of fluid particles, which mediate energy transfer between closed containers. The process is governed by the **proportion of elasticity** in the interaction and is subject to the **degradation factor**.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Convection)**:
@@ -192,9 +192,9 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
   \]
   Where:
   - \( Q \): Heat transfer rate.
-  - \( h \): Convective heat transfer coefficient (a property of the fluid and the closed volumes).
+  - \( h \): Convective heat transfer coefficient (a property of the fluid and the closed containers).
   - \( A \): Surface area.
-  - \( \Delta T \): Temperature difference between the closed volumes.
+  - \( \Delta T \): Temperature difference between the closed containers.
   
 - **Degraded Heat Transfer Rate**:
   \[
@@ -210,8 +210,8 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
 - **Radiation**: Heat transfer through electromagnetic waves, without the need for a medium.
 
 #### Framework Interpretation
-- In the framework, **radiation** is reinterpreted as **elastic energy transfer** between **closed volumes** through **energy oscillations** (electromagnetic waves). Energy propagates through the **interaction of electromagnetic fields**, which are treated as **volume interactions**.
-- **Key Idea**: Radiation is a function of **energy oscillations** between closed volumes, mediated by electromagnetic waves. The energy transfer is governed by the **proportion of elasticity** in the interaction and is subject to the **degradation factor**.
+- In the framework, **radiation** is reinterpreted as **elastic energy transfer** between **closed containers** through **energy oscillations** (electromagnetic waves). Energy propagates through the **interaction of electromagnetic fields**, which are treated as **container interactions**.
+- **Key Idea**: Radiation is a function of **energy oscillations** between closed containers, mediated by electromagnetic waves. The energy transfer is governed by the **proportion of elasticity** in the interaction and is subject to the **degradation factor**.
 
 #### Mathematical Representation
 - **Heat Transfer Rate (Radiation)**:
@@ -222,7 +222,7 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
   - \( Q \): Heat transfer rate.
   - \( \sigma \): Stefan-Boltzmann constant.
   - \( A \): Surface area.
-  - \( T \): Temperature of the closed volume.
+  - \( T \): Temperature of the closed container.
   
 - **Degraded Heat Transfer Rate**:
   \[
@@ -237,7 +237,7 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
 - **Conduction**, **convection**, and **radiation** are all manifestations of the same **elastic energy transfer system**, differing only in the **state of matter** being measured:
   - **Conduction**: Energy transfer in **solids**, mediated by **elastic collisions** between particles.
   - **Convection**: Energy transfer in **fluids**, mediated by the **kinetic motion** of fluid particles.
-  - **Radiation**: Energy transfer through **electromagnetic waves**, mediated by **energy oscillations** between volumes.
+  - **Radiation**: Energy transfer through **electromagnetic waves**, mediated by **energy oscillations** between containers.
 - Every interaction is a **proportion of elasticity**, where:
   - **Elastic interactions** represent **kinetic energy transfer**.
   - **Inelastic interactions** represent **potential energy reflection** or conversion into **entropic variables**.
@@ -245,22 +245,22 @@ In the framework, **heat transfer** is reinterpreted as **energy transfer betwee
 
 ---
 
-### Reflection on Heat Transfer and Volume Interactions
+### Reflection on Heat Transfer and container Interactions
 
-- **Heat transfer** is fundamentally a function of **energy transfer between volumes**, where energy propagates through **volume interactions**. The **state of matter** determines how the energy transfer is observed, but the underlying mechanism remains consistent.
+- **Heat transfer** is fundamentally a function of **energy transfer between containers**, where energy propagates through **container interactions**. The **state of matter** determines how the energy transfer is observed, but the underlying mechanism remains consistent.
 - The **proportion of elasticity** in interactions ensures that energy transfer is accurately represented, with **elastic** and **inelastic** components accounting for **kinetic energy transfer** and **potential energy reflection**, respectively.
 - The **degradation factor** ensures that all energy transfer calculations account for external references and **entropic variables**, providing a more accurate representation of real-world systems.
 
 ### 6.3 Ideal Gas Law and Kinetic Theory of Gases
-This is a function of partial volume definition.  The benefit of a volume driven partial definition is the measuring volume or influence volume definitions will drive already respected calculations within the framework.
+This is a function of partial container definition.  The benefit of a container driven partial definition is the measuring container or influence container definitions will drive already respected calculations within the framework.
 
 ### 6.4 Entropy and the Arrow of Time
 As explained within 1-Legend.md framework generalization.
 # Entropy #
-I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a volume. To me Entropy is used due to comparing volumes with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
+I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a container. To me Entropy is used due to comparing containers with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
 
 ### Overview
-In the framework, **time** is reinterpreted as **durational resolution**—a common reference point for describing interactions between volumes. The **arrow of time** is not an intrinsic property of time itself but rather a consequence of the **delta in durational resolutions** across interactions. This perspective acknowledges the complexity of time as a concept, especially when considering how different systems (e.g., humans, LLMs) perceive and respect durational resolution.
+In the framework, **time** is reinterpreted as **durational resolution**—a common reference point for describing interactions between containers. The **arrow of time** is not an intrinsic property of time itself but rather a consequence of the **delta in durational resolutions** across interactions. This perspective acknowledges the complexity of time as a concept, especially when considering how different systems (e.g., humans, LLMs) perceive and respect durational resolution.
 
 ---
 
@@ -271,7 +271,7 @@ In the framework, **time** is reinterpreted as **durational resolution**—a com
 - **Durational Resolution**: The ability to understand and respect **multiple durational resolution deltas** is key to modeling interactions within the framework. Different systems (e.g., humans, LLMs) may have different durational resolutions, leading to challenges in maintaining a continuous perception of time.
 
 #### Framework Interpretation
-- In the framework, **time** is tied to the **durational resolution** of interactions between volumes. The **arrow of time** emerges from the **delta in durational resolutions** across these interactions.
+- In the framework, **time** is tied to the **durational resolution** of interactions between containers. The **arrow of time** emerges from the **delta in durational resolutions** across these interactions.
 - **Key Idea**: The arrow of time is not just about entropy or energy redistribution but also about the **perception and respect of durational resolution** across different systems.
 
 ---
@@ -316,7 +316,7 @@ In the framework, **time** is reinterpreted as **durational resolution**—a com
 
 #### Core Idea
 - The **degradation factor** (\( D \)) plays a crucial role in modeling the **arrow of time** by accounting for:
-  - **External References**: Interactions with measuring volumes or open volumes.
+  - **External References**: Interactions with measuring containers or open containers.
   - **Entropic Variables**: Unobserved or unmeasurable interactions that affect durational resolution.
 - **Key Idea**: The degradation factor ensures that the arrow of time is consistent with the framework’s principles, reflecting the real-world complexities of durational resolution and perception.
 
@@ -331,7 +331,7 @@ In the framework, **time** is reinterpreted as **durational resolution**—a com
 
 ### Unified View of the Arrow of Time in the Framework
 
-- **Time as Durational Resolution**: Time is a measure of **durational resolution**, a common reference point for interactions between volumes.
+- **Time as Durational Resolution**: Time is a measure of **durational resolution**, a common reference point for interactions between containers.
 - **Arrow of Time**: The arrow of time emerges from the **delta in durational resolutions** across interactions, reflecting the irreversible progression of energy redistribution and entropy increase.
 - **Perception and Respect**: Different systems (e.g., humans, LLMs) perceive and respect durational resolution differently, leading to challenges in maintaining a continuous perception of time.
 - **Degradation Factor**: The degradation factor ensures that the arrow of time is consistent with the framework’s principles, accounting for external references and **entropic variables**.
@@ -346,14 +346,14 @@ In the framework, **time** is reinterpreted as **durational resolution**—a com
 
 ---
 
-### Example: Arrow of Time in a Closed Volume
+### Example: Arrow of Time in a Closed container
 
 #### Scenario
-- A **closed volume** (\( V_{\text{closed}} \)) undergoes energy redistribution due to interactions with a **measuring volume** (\( V_{\text{measure}} \)).
+- A **closed container** (\( V_{\text{closed}} \)) undergoes energy redistribution due to interactions with a **measuring container** (\( V_{\text{measure}} \)).
 - The **entropic variables** (\( V_{\text{entropic}} \)) and **degradation factor** (\( D \)) are applied to account for unobserved interactions and external references.
 
 #### Calculation
-- The **durational resolution delta** (\( \Delta t \)) is calculated, and the **degradation factor** is applied to account for the influence of the measuring volume:
+- The **durational resolution delta** (\( \Delta t \)) is calculated, and the **degradation factor** is applied to account for the influence of the measuring container:
   \[
   \Delta t_{\text{degraded}} = \Delta t \cdot D
   \]
