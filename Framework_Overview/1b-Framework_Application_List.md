@@ -15,6 +15,7 @@
   - **Purpose**: To explore "what-if" scenarios, optimize designs, or identify trends.
   - **Challenges**: Limited by computational resources, model accuracy, and input data quality.
 - **Framework Application**:
+  - **Iteration options**: Model usage is for single calculations.
   - **Degradation Factor**: Used to account for uncertainties in the model (e.g., incomplete data, approximations).
   - **Disengaging Thresholds**:
     - Computational limits: If the model exceeds 80% of available memory or processing power, disengage and simplify.
@@ -67,6 +68,43 @@
   - **Example**: Testing the shredder prototype under extreme conditions (e.g., high load, continuous operation) to identify failure points.
 
 ---
+
+```json  
+{"Usage": {  
+  "Usage_1computerized_modeling": {  
+    "Symbol": "Usage_1",  
+    "Definition": "Theoretical simulations using computational tools to predict system behavior.",  
+    "Constraints": ,  
+    "Dependencies": ,  
+    "Origin":   
+  },  
+  "Usage_2theoretical_viability": {  
+    "Symbol": "Usage_2",  
+    "Definition": "Exploring conceptual feasibility through thought experiments and theoretical analysis.",  
+    "Constraints": ,  
+    "Dependencies": ,  
+    "Origin":   
+  },
+  "Usage_3": {  
+    "Symbol": "Usage_3",  
+    "Definition": "Designing and building prototypes to assess the practicality of a system.",  
+    "Constraints": ,  
+    "Dependencies": ,  
+    "Origin":   
+  },+
+  "Usage_4": {  
+    "Symbol": "Usage_4",  
+    "Definition": "Subjecting the system to rigorous testing to identify failure points and validate performance.",  
+    "Constraints": ,  
+    "Dependencies": ,  
+    "Origin":   
+  },
+}}
+
+```
+
+---
+
 
 ### Key Insights
 1. **Clear Phases**: Splitting engineering feasibility into **development/prototyping** and **rigor/failure testing** ensures a more structured approach to system design and validation.
