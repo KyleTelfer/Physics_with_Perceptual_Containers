@@ -126,10 +126,8 @@ I Kyle Telfer, a self-taught individual exploring physics through a structured, 
 *Closed vs. Open containers:
 *Closed container: A container where energy is conserved (no external energy transfer).
 *Open container: A container where energy is not conserved or no energy can enter or exit a closed container unless expressed as an interaction of two closed containers within the theoretically fundamental 3d Space container(external energy transfer occurs).   
-*Person Notation:* 
-*First-Person POV: Describes the container from the perspective of being the container itself.*
-*Second-Person POV: Describes another container from an external perspective.*
-*Third-Person POV**: Describes both containers from an objective, external perspective.*
+*Observer respected notation*
+*1st, 2nd, 3rd person viewpoint remapped to Contain A and Container B while the interaction is a 3rd person summary.  The 5 step interaction helps resolve understanding to summarize.
 
 # 3D Space #
 I am teaching myself as much as I can about so many things but run into many issues with the order of which things are traditionally tought as well as moving past data points being referenced in places my personal organization equates to unlike conditions.  This section is meant to hold all things with the understanding and respect that many things not understood or observed would also be within.  This section lets me learn and grow.  The section organization is much influx due to this being a best effort to organize thoughts and document data point problems so I can look to understand what I do not.  I may reorder or move information to a better representation but I am doing my personal best to not include incorrect thoughts or thoughts that have undocumented thresholds without explaination.  This 3d Space section is what I am treating as a open container to which container interactions happen but with no limits mass or energy can not be calculated.
@@ -140,36 +138,26 @@ Container is defined as a region within 3D space that can be either an open syst
 
 ** Property Variables **
 
-*1. Point of Origin - one common point within container
-*2. Scale of measurement - Scale or units would all be bound to the point of origin upon need to calculate values. -Note this would indicate a relativity difference when a container is within another  container
-*3. Boundries - The limit or skin of the container itself. - Note containers can have physical shapes like containers that do not influence what is within but can be evaluated as two containers interacting with much math
-*4. Duration resolution - this is a common interval that all duration calculations would respect tied to the container. 
-*5. Mass - can only be calculated with a closed container with required definitions of 1,2,3,4
-*6. Energy - can be quantified only with a closed container tied to mass of the same closed container
-*7. Density - can be quantified only with a closed container tied to the mass of the same closed container
-*8. Gravity: This is an attraction to the net center of mass of a container, whose strength (amplitude) decreases with the square of the distance from that center in a spherically symmetric manner. When evaluating open containers, interactions with unknown or external masses may influence the gravitational field, and each mass concentration contributes its own spherically symmetric field.
-*9. Entropic Variables - In the framework, **closed containers** are systems where energy is conserved, and no external energy transfer occurs. However, any reference to an **open container**, **theoretical container**, or **measuring container** within a calculation introduces potential degradation of the closed container's integrity. This degradation is further influenced by **entropic variables** (\( V_{\text{entropic}} \)), which represent the unobserved or undefined interactions within the closed container itself.
+*1. Point of Origin - is a common point of a container that all measurements for said container hold true as long as continuity of said container and it's point of origin are maintained.
+*2. Any quantified things are tied to the container via the point of Origin
 
-1. Absolute container (Third-Person):
-   - Formula: V = x * y * z
+#Container interaction mapping#
+A single container can exist but compositional interactions can not happen unless you divide the container to observe the interaction between compositions.  So all interactions are between two containers.  With this in mind I break down the observation as follows.
 
-2. First-Person container (V_me):
-   - Formula: V_me = (x_me * y_me) * z_inferred
+Container A and Container B
+Observer Container A and Observer Container B
+Notation of each Observer is within their own "intent"
 
-3. Second-Person container (V_you):
-   - Formula: V_you = (x_you * y_you) * z_measured 
-   
-==== Notes ====
-- An observers perception and an observers observance are not equal so all measurements taken to define a container would be limitted to the context of an open container viewing an other open container that is in process of being closed or defined for calculation.  This is the at the heart of battle between experimental and theoretical.
+So Container A and Container B interact
 
-***Noted Issue - Mass and Density have a dependancy to each other to be defined so one is needed to define the other.  This indicates they are relative to each other with pure definition on yet another unknown.
-** Mass Variables **
-* 
-** Density Variables **
-*
+Container A notation
 
-** Modifiers **
-* To be expanded upon 
+Observer A has two energy intents with two results Each
+Va + Vb - would then notate for kinetic and potential change with endo and exo results.  
+
+Observer B has the same but seem from the other side.  Not the opposite.
+
+The interaction or 3rd person is but a summary of this interaction with Entropic energies and Degradation of values showing upon summary.  
 
 #Containers within perception#
 Container interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a container is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the container they are computed within.
@@ -178,7 +166,7 @@ Container interactions are a way for me to compartmentalize interactions but thi
 Containers are my way to notate known physics while showing respect for the conditions of which the formulas and proofs are solved within.  My hopes is to be able to notate the rules in a manner that keeps track of conditions of the containers to which formula inputs are proven so I can see if those formulas meet the like conditions of the container I am looking to solve within thus solving what I need while respecting the formulas creational effort and limitations.
 
 #Scope of a Closed Container #
-Once a closed container is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed container as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
+Once a closed container is defined those definitions can be used for calculations to understand the principles of viable interactions.  No analog thing within the understanding of humans as far as I know can be a closed container for any active interaction due to computational limits and safety.  The amount of computational time needed to measure and define would degrade the result before any valid active interaction can occur.  Not to say the mechanisms could not be useful just not as a closed container.
 
 # Open Container or Partial Container definitions such as a measuring Container #
 As all closed container energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a container to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring container to enclose the closed container you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring container and closed container. 
