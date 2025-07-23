@@ -138,8 +138,8 @@ Container is defined as a region within 3D space that can be either an open syst
 
 ** Property Variables **
 
-*1. Point of Origin - is a common point of a container that all measurements for said container hold true as long as continuity of said container and it's point of origin are maintained.
-*2. Any quantified things are tied to the container via the point of Origin
+*1. Point of Origin* - is a common point of a container that all measurements for said container hold true as long as continuity of said container and it's point of origin are maintained.
+*2.* Any quantified things are tied to the container via the point of Origin
 
 #Container interaction mapping#
 A single container can exist but compositional interactions can not happen unless you divide the container to observe the interaction between compositions.  So all interactions are between two containers.  With this in mind I break down the observation as follows.
