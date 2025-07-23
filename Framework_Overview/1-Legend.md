@@ -141,7 +141,8 @@ Container is defined as a region within 3D space that can be either an open syst
 *1. Point of Origin* - is a common point of a container that all measurements for said container hold true as long as continuity of said container and it's point of origin are maintained.
 *2.* Any quantified things are tied to the container via the point of Origin
 
-#Container interaction mapping#
+# Container interaction mapping #
+
 A single container can exist but compositional interactions can not happen unless you divide the container to observe the interaction between compositions.  So all interactions are between two containers.  With this in mind I break down the observation as follows.
 
 Container A and Container B
@@ -159,13 +160,14 @@ Observer B has the same but seem from the other side.  Not the opposite.
 
 The interaction or 3rd person is but a summary of this interaction with Entropic energies and Degradation of values showing upon summary.  
 
-#Containers within perception#
+# Containers within perception #
+
 Container interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a container is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the container they are computed within.
 
-#Containers and the gradient between open and closed #
+# Containers and the gradient between open and closed #
 Containers are my way to notate known physics while showing respect for the conditions of which the formulas and proofs are solved within.  My hopes is to be able to notate the rules in a manner that keeps track of conditions of the containers to which formula inputs are proven so I can see if those formulas meet the like conditions of the container I am looking to solve within thus solving what I need while respecting the formulas creational effort and limitations.
 
-#Scope of a Closed Container #
+# Scope of a Closed Container #
 Once a closed container is defined those definitions can be used for calculations to understand the principles of viable interactions.  No analog thing within the understanding of humans as far as I know can be a closed container for any active interaction due to computational limits and safety.  The amount of computational time needed to measure and define would degrade the result before any valid active interaction can occur.  Not to say the mechanisms could not be useful just not as a closed container.
 
 # Open Container or Partial Container definitions such as a measuring Container #
