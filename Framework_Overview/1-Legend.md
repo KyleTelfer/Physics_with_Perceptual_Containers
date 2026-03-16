@@ -124,7 +124,7 @@ I Kyle Telfer, a self-taught individual exploring physics through a structured, 
 *Container Interactions: Forces and interactions are reinterpreted as interactions between containers.
 *Observer-Dependence: Measurements depend on the observer’s perspective. 
 *Closed vs. Open containers:
-*Closed container: A container where energy is conserved (no external energy transfer).
+*Closed container: A container where energy is conserved (no external energy transfer).  The act of closing a container makes the container and all computation from it theoretical. 
 *Open container: A container where energy is not conserved or no energy can enter or exit a closed container unless expressed as an interaction of two closed containers within the theoretically fundamental 3d Space container(external energy transfer occurs).   
 *Person Notation:* 
 *First-Person POV: Describes the container from the perspective of being the container itself.*
@@ -178,7 +178,11 @@ Container interactions are a way for me to compartmentalize interactions but thi
 Containers are my way to notate known physics while showing respect for the conditions of which the formulas and proofs are solved within.  My hopes is to be able to notate the rules in a manner that keeps track of conditions of the containers to which formula inputs are proven so I can see if those formulas meet the like conditions of the container I am looking to solve within thus solving what I need while respecting the formulas creational effort and limitations.
 
 #Scope of a Closed Container #
-Once a closed container is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed container as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
+Once a closed container is defined those definitions can be used for calculations but those definitions would not be considered accurate to apply any result from any calculation back to the closed container.  For purposes of comparison they may be valuable but concidering any closed container as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
+
+Zeroth Law of Container Interactions (Finalized)
+Statement:
+"No closed container may influence another container unless all interacting containers are closed within the same environmental or measuring container for the same Δt."
 
 # Open Container or Partial Container definitions such as a measuring Container #
 As all closed container energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a container to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring container to enclose the closed container you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring container and closed container. 
